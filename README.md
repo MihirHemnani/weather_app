@@ -1,8 +1,8 @@
 # WeatherApp
-
+<!-- 
 ## Live Application : 
-https://weather-app-pp.netlify.app/
-
+https://weather-app-pp.netlify.app/ -->
+<!-- 
 1. Grant your location access
 
 ![image](https://user-images.githubusercontent.com/54476598/234649199-b1f42115-beff-4d43-a645-c40f35ee73c4.png)
@@ -14,4 +14,4 @@ https://weather-app-pp.netlify.app/
 3.You can search for weather of any city by entering the city name.
 
 ![image](https://user-images.githubusercontent.com/54476598/234649756-ccc8c8f0-0f6a-49ce-9903-d4d8fd64aefa.png)
-
+ -->
